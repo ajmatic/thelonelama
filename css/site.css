@@ -1,0 +1,192 @@
+body {
+	background-image: url("../img/subtle_grunge.png");
+	background-repeat: repeat;
+}
+
+header {
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+	position: relative;
+}
+
+header h1 {
+	display: inline-block;
+	margin: 0;
+	text-align: center;
+	font-size: 8rem;
+	font-family: 'Londrina Shadow', cursive;
+}
+
+header h1 a {
+	color: black;
+	padding-right: 1rem;
+}
+
+header h1 a:hover {
+	color: #a6a600;
+	text-decoration: none;
+}
+
+
+.nav-pills li a {
+	color: gray;
+}
+
+.nav-pills {
+	font-family: 'Just Me Again Down Here', cursive; 
+	font-size: 2.7rem;
+}
+
+.nav-pills a:hover {
+	color: black;
+}
+
+[class*="col-"] img {
+	max-width: 100%;
+}
+
+#mainImage {
+	margin-top: 9rem;
+	cursor: pointer;
+}
+
+#juliaFace {
+	margin: 2rem 0 2rem 8rem;
+}
+
+#about {
+	padding-left: 1rem;
+}
+
+#posts h2 a {
+	color: #8F0000;
+}
+
+footer {
+	font-size: 3rem;
+	background-color: #876ed7;
+	padding: 2rem;
+	margin-bottom: 2rem;
+}
+
+footer a {
+	color: white;
+	padding: 2rem;
+	text-decoration: none;
+}
+
+footer a:hover {
+	color: gray;
+}
+
+#foot2 {
+	text-align: right;
+	padding-right: 2rem;
+}
+
+
+#headarchive {
+	font-size: 2rem;
+}
+
+#posts {
+	font-size: 1.5rem;
+	padding: 1rem;
+	display: block;
+}
+
+#viewarchive {
+	text-align: right;
+}
+
+
+#viewarchive a {
+	font-family: 'Just Me Again Down Here', cursive; 
+	font-size: 3rem;
+	color: gray;
+	text-align: left;
+}
+
+#viewarchive a:hover {
+	color: white;
+}
+
+#signIn {
+	font-size: 1rem;
+}
+
+.gallery {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+#social {
+	font-size: 4rem;
+}
+
+#iconLink {
+	color: gray;
+}
+
+#iconPin {
+	color: gray;
+}
+
+#iconTwit {
+	color: gray;
+}
+
+#iconFace{
+	color: gray;
+}
+
+#iconLink:hover{
+	color: #4B4B3B;
+}
+
+#iconPin:hover {
+	color: #4B4B3B;
+}
+
+#iconTwit:hover {
+	color: #4B4B3B;
+}
+
+#iconFace:hover {
+	color: #4B4B3B;
+}
+
+@media screen and (max-width: 480px) {
+	.navbar-nav li {
+		text-align: left;
+	}
+
+	#viewarchive {
+		text-align: center;
+		font-size: 2.5rem;
+	}
+
+	#viewarchive a {
+		font-size: 2.5rem;
+	}
+
+	header h1 {
+		font-size: 5rem;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

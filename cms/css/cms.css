@@ -1,0 +1,25 @@
+body {
+	background: white;
+	color: #333;
+}
+
+li {
+	font-size: 2rem;
+}
+
+.col-sm-10 {
+	margin: 2rem;
+}
+
+#nav {
+	display: inline-block;
+	margin: 3em 0 0 0;
+	padding: 2rem;
+	background: #ddd;
+	border: 1px solid #ccc;
+	font-size: 2rem;
+}
+
+.message {
+	color: red;
+}
