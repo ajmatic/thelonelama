@@ -85,8 +85,8 @@ while($row = mysql_fetch_assoc($result)) {
 				<div class="col-sm-6 col-md-6">
 					<div id="sidebar">
 						<div id="about">
-							<h3>Julia's Blog</h3>
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+							<h3>The Lone Lama Blog</h3>
+							<p>Here at The Lone Lama we are dedicated to providing a beautiful and rare intellectual journey into the mind of the everyday person who also considers themselves a diamond in the rough, a unique find who wonders why everyone else can't see their greatness. In short, we are the lone llamas of the world.</p>
 						</div>
 					</div>
 				<!--sidebar ends-->

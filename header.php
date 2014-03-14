@@ -44,7 +44,7 @@
 		      	</form>
 		    </div><!-- /input-group -->
 		    </form>
-		    <h3 id="viewarchive"><a href="archive.php">View the Archive</a></h3>
+		    <h3 id="viewarchive"><a href="archive.php">Archive</a></h3>
 		</div><!-- /.col-lg-4 -->
 	</div><!-- /.row -->
 	<div class="row">

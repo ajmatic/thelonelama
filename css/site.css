@@ -34,12 +34,12 @@ header h1 a:hover {
 }
 
 .nav-pills {
-	font-family: 'Just Me Again Down Here', cursive; 
+	font-family: 'Poiret One', cursive; 
 	font-size: 2.7rem;
 }
 
 .nav-pills a:hover {
-	color: black;
+	color: #a6a600;
 }
 
 [class*="col-"] img {
@@ -65,7 +65,7 @@ header h1 a:hover {
 
 footer {
 	font-size: 3rem;
-	background-color: #876ed7;
+	background-color: #a6a600;
 	padding: 2rem;
 	margin-bottom: 2rem;
 }
@@ -102,14 +102,14 @@ footer a:hover {
 
 
 #viewarchive a {
-	font-family: 'Just Me Again Down Here', cursive; 
+	font-family: 'Poiret One', cursive; 
 	font-size: 3rem;
-	color: gray;
+	color: #a6a600;
 	text-align: left;
 }
 
 #viewarchive a:hover {
-	color: white;
+	color: gray;
 }
 
 #signIn {
@@ -126,19 +126,19 @@ footer a:hover {
 }
 
 #iconLink {
-	color: gray;
+	color: 3ffff73;
 }
 
 #iconPin {
-	color: gray;
+	color: 3ffff73;
 }
 
 #iconTwit {
-	color: gray;
+	color: 3ffff73;
 }
 
 #iconFace{
-	color: gray;
+	color: 3ffff73;
 }
 
 #iconLink:hover{
