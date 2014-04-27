@@ -17,7 +17,7 @@
 						
 							<a href="#" target="_blank"><i class="fa fa-twitter" id="iconTwit"></i></a>
 						
-							<a href="https://www.facebook.com/julia.campbell" target="_blank"><i class="fa fa-facebook-square" id="iconFace"></i></a>
+							<a href="#" target="_blank"><i class="fa fa-facebook-square" id="iconFace"></i></a>
 						</div>
 					</div>
 				</div>

@@ -35,14 +35,12 @@
 		</div>
 		<div class="col-sm-4 col-md-4">
 			<form action="search.php" method="get">
-    		<div class="input-group">
-    			
+	    		<div class="input-group">
 		      		<input type="text" name="q" value="" class="form-control">
 		      		<span class="input-group-btn">
-		        	<button class="btn btn-default" type="button">Search</button>
+		        	<button class="btn btn-default" type="submit">Search</button>
 		      		</span>
-		      	</form>
-		    </div><!-- /input-group -->
+			    </div><!-- /input-group -->
 		    </form>
 		    <h3 id="viewarchive"><a href="archive.php">Archive</a></h3>
 		</div><!-- /.col-lg-4 -->

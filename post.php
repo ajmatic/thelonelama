@@ -65,14 +65,14 @@ if ($myposts) {
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta charset="utf-8">
-		<title>Julia's Blog</title>
-		<link href='http://fonts.googleapis.com/css?family=Bilbo+Swash+Caps|Felipa|Swanky+and+Moo+Moo|Just+Me+Again+Down+Here' rel='stylesheet' type='text/css'>
+		<title>The Lone Lama</title>
+		<link href='http://fonts.googleapis.com/css?family=Poiret+One|Montez|Flamenco|The+Girl+Next+Door|Yesteryear|Monofett|Righteous|Londrina+Shadow' rel='stylesheet' type='text/css'>
 		<script src="https://code.jquery.com/jquery.js"></script>
 	    <!-- Include all compiled plugins (below), or include individual files as needed -->
 	    <script src="../dist/js/bootstrap.min.js"></script>
 		<link href="../dist/css/bootstrap.css" rel="stylesheet">
 		<link href="../css/font-awesome.min.css" rel="stylesheet">
-		<style type="text/css"> @import url(../css/julia.css); </style>
+		<style type="text/css"> @import url(../css/site.css); </style>
 	</head>
 	<body>
 		<div class="container">

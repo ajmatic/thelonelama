@@ -60,7 +60,7 @@ header h1 a:hover {
 }
 
 #posts h2 a {
-	color: #8F0000;
+	color: #a6a600;
 }
 
 footer {
@@ -126,35 +126,48 @@ footer a:hover {
 }
 
 #iconLink {
-	color: 3ffff73;
+	color: #ffff73;
 }
 
 #iconPin {
-	color: 3ffff73;
+	color: #ffff73;
 }
 
 #iconTwit {
-	color: 3ffff73;
+	color: #ffff73;
 }
 
 #iconFace{
-	color: 3ffff73;
+	color: #ffff73;
 }
 
 #iconLink:hover{
-	color: #4B4B3B;
+	color: #7d7d1f;
 }
 
 #iconPin:hover {
-	color: #4B4B3B;
+	color: #7d7d1f;
 }
 
 #iconTwit:hover {
-	color: #4B4B3B;
+	color: #7d7d1f;
 }
 
 #iconFace:hover {
-	color: #4B4B3B;
+	color: #7d7d1f;
+}
+
+#rotating-item-wrapper {
+    position: relative;
+    width: 480px;
+    height: 347px;
+    margin-top: 4rem;
+}
+.rotating-item {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 @media screen and (max-width: 480px) {

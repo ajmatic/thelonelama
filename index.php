@@ -21,7 +21,6 @@ while($row = mysql_fetch_assoc($result)) {
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta charset="utf-8">
 		<link href='http://fonts.googleapis.com/css?family=Poiret+One|Montez|Flamenco|The+Girl+Next+Door|Yesteryear|Monofett|Righteous|Londrina+Shadow' rel='stylesheet' type='text/css'>
-
 		<script src="https://code.jquery.com/jquery.js"></script>
 	    <!-- Include all compiled plugins (below), or include individual files as needed -->
 	    <script src="../dist/js/bootstrap.min.js"></script>
@@ -60,8 +59,12 @@ while($row = mysql_fetch_assoc($result)) {
 					<!--maincontent ends-->
 				</div><!--end col-6-->
 				<div class="col-sm-6 col-md-6">
-					<img alt="Boston skyline" src="../img/boston-skyline2.jpeg" id="mainImage" title="click image to stop animation">
-					
+					<div class=" col-xs-12 col-sm-6 col-md-6 col-lg-6">
+			          <div id="rotating-item-wrapper"><img class="rotating-item" src="img/llama-ground.jpg" alt="a person entering a building" width="480" height="347" />
+			           <img class="rotating-item" src="img/llama-white.jpg" alt="photo of building across from our office" width="480" height="347" />
+			           <img class="rotating-item" src="img/llama.jpg" alt="building entrance with neon backlit walls" width="480" height="347" />
+			          </div>
+			        </div>
 				</div>
 			</div><!--end row-->
 			<div class="row">
@@ -97,6 +100,6 @@ while($row = mysql_fetch_assoc($result)) {
 			
 			<?php include("footer.php"); ?>
 		</div><!--end container-->
-		<script src="script.js"></script>
+		<script src="dist/js/script.js"></script>
 	</body>
 </html>
